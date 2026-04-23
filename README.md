@@ -40,7 +40,7 @@ The project enhances knowledge of:
 
 ### 🖥️ a. Server Listening on Port 8080
 
-server.png
+![1](server.png)
 
 
 
@@ -52,7 +52,7 @@ server.png
 ---
 
 ### 🔗 b. Client Connection & Service Detection
-client.png
+![2](client.png)
 
 ### 🔍 Observation
 
